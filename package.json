@@ -1,0 +1,10 @@
+{
+  "name": "thicc-bot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "David Brad",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
